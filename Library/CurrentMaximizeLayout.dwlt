@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 813, y: 271}
   m_MaxSize: {x: 22008, y: 10021}
   vertical: 0
-  controlID: 260
+  controlID: 117
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -333,7 +333,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 64fbffff00000000
+    m_ExpandedIDs: befbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -419,7 +419,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Menu/Resources/Shaders
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -431,7 +431,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 56130000
     m_LastClickedID: 4950
-    m_ExpandedIDs: ffffffff00000000320c0000b00c0000420d0000f60d00001e0e00001a100000
+    m_ExpandedIDs: 00000000c00c00003e0d0000d20d0000880e0000b00e0000b0100000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -456,10 +456,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 872}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000320c0000b00c0000420d0000f60d00001e0e00001a100000
+    m_ExpandedIDs: ffffffff00000000c00c0000f60c0000fe0c00000e0d00003e0d0000700d0000880d0000920d0000ac0d0000b60d0000d20d00000c0e00004a0e0000880e0000b00e0000820f0000900f0000d00f000084100000b0100000b4100000dc1000002c110000861100008c110000e6110000f01100002c1200002e12000044120000c81200001a1300006e130000bc130000d4370000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
